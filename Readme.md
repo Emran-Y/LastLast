@@ -11,8 +11,8 @@ This project integrates a PHP server with a JavaScript-based frontend for dynami
 ## Note
 The attempt to use "node-php-server" for running the PHP server was unsuccessful, as the package is deprecated. More information is available on the [official repository](https://github.com/jaceju/node-php-server).
 
-## video
-[Click here to watch the video](insert_link_to_video_here)
+## Demo video
+[Click here to watch the video](https://screenapp.io/app/#/shared/4508c72f-261f-48f5-ba20-3f79acaa02ac)
 
 ## Contributors
 - [Emran Yonas](https://github.com/Emran-Y)
